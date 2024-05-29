@@ -1,0 +1,31 @@
+button{
+  background: green;
+  height: 50px;
+  width: 150px;
+
+}
+
+input{
+  height: 48px;
+  width: 400px;
+}
+
+.add{
+  border-radius: 10px;
+  background: green;
+}
+
+.x{
+  margin: 10px;
+}
+.l{
+  margin: 10px;
+  border-radius: 10px;
+  background: red;
+}
+.list{
+  display: inline;
+}
+p{
+margin: 167px;
+}
